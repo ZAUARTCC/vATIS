@@ -58,11 +58,11 @@
 * 28R
 
 
-### NOTAMS
+## NOTAMS
 
 None by default
 
 
-### Frequency and Voice Server
+## Frequency and Voice Server
 Voice Server: `rw.liveatc.net`
 ATIS Frequency: `135.400`
